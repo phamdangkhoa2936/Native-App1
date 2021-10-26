@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NativeApp</string>
+    <string name="tv_username">Username</string>
+    <string name="tv_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="notification_02">Login is clicked</string>
+</resources>
